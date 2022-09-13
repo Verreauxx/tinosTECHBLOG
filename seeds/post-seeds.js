@@ -2,13 +2,13 @@ const { Post } = require('../models');
 
 const postdata = [
   {
-    title: 'Donec posuere metus vitae ipsum.',
-    post_text: 'Nam faucibus, magna vel elementum maximus, magna tellus tincidunt arcu, eu semper justo augue eget est.',
+    title: 'Apple Releases New Iphones',
+    post_text: 'A magical new way to interact with iPhone. Groundbreaking safety features designed to save lives. An innovative 48MP camera for mind-blowing detail. All powered by the ultimate smartphone chip.',
     user_id: 10
   },
   {
-    title: 'Morbi non quam nec dui luctus rutrum.',
-    post_text: 'Donec purus arcu, ultricies dapibus ante et, ullamcorper porta eros.',
+    title: 'Google spins out secret hi-speed telecom project called Aalyria, and keeps stake in startup',
+    post_text: 'Inside Google, a team of techies has been working behind the scenes on software for high-speed communications networks that extend from land to space.',
     user_id: 8
   },
   {
